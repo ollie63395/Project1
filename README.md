@@ -13,4 +13,5 @@
     - Battling is done between two teams in a turn based manner, where every "turn" includes an action from both teams. In a battle, each team selects one monster to be currently out on the field, while the rest of each team waits to help out.
 
 *This project helped me practice my knowledge in OOP, time complexity analysis as well as data structures: Stacks, Queues, List ADTs, and Linked Lists :-D
+
 *Part of this project is created along with Monash University teaching members
