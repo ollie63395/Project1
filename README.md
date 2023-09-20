@@ -6,9 +6,9 @@
 - Each monster will have 2 sets of stats: simple and complex (for different player difficulties)
 
 - Some example of:
-    - **Monster class:** Flamikin, Infernoth, Leviatitan, etc.
-    - **Monster stats:** attach, defense, hp, speed, etc.
-    - **Teams:** Monsters will be put into teams and go to the battle field! Teams will join in tournaments until the last one survives!
-    - **Battling:** Battling is done between two teams in a turn based manner, where every "turn" includes an action from both teams. In a battle, each team selects one monster to be currently out on the field, while the rest of each team waits to help out.
+    - **Monster Class:** Flamikin, Infernoth, Leviatitan, etc.
+    - **Monster Stats:** attach, defense, hp, speed, etc.
+    - **Monster Teams:** Monsters will be put into teams and go to the battle field! Teams will join in tournaments until the last one survives!
+    - **Monster Battles:** Battling is done between two teams in a turn based manner, where every "turn" includes an action from both teams. In a battle, each team selects one monster to be currently out on the field, while the rest of each team waits to help out.
 
 *Part of this project is created along with Monash University teaching members
