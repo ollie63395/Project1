@@ -8,8 +8,6 @@
 - Some example of:
     - **Monster class:** Flamikin, Infernoth, Leviatitan, etc.
     - **Monster stats:** attach, defense, hp, speed, etc.
- 
-- Some example of:
     - **Teams:** Monsters will be put into teams and go to the vigorous battle field! Teams will face each other in tournaments until the last one survives!
     - **Battling:** Battling is done between two teams in a turn based manner, where every "turn" includes an action from both teams. In a battle, each team selects one monster to be currently out on the field, while the rest of each team waits to help out.
 
