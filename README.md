@@ -1,13 +1,13 @@
 # Pokemon Monster Battle
 
-# Summary
+## Summary
 
 - A simple battling version of the classic game Pokémon
 - This project helped me practice my knowledge in OOP, time complexity analysis as well as data structures: Stacks, Queues, List ADTs, and Linked Lists :-D
 - There are _40 different types_ of monsters, each with their own names and stats, and one type of a monster can evolve into another type of a monster when they level up
 - Each monster will have 2 sets of stats: simple and complex (for different player difficulties)
 
-# Gane Features:
+## Gane Features:
 
 - **Monster Class:** Flamikin, Infernoth, Leviatitan, etc.
 - **Monster Stats:** Attack, defense, hp, speed, etc.
